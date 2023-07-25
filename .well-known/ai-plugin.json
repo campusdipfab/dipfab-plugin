@@ -1,6 +1,6 @@
 {
   "schema_version": "v1",
-  "name_for_model": "dipfab_plugin",
+  "name_for_model": "dipfab_plugin-db",
   "name_for_human": "dipfab-plugin",
   "description_for_model": "Use the tool the acces to dipfab formation",
   "description_for_human": "Use the tool the acces to dipfab formation",
